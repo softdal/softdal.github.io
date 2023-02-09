@@ -1,7 +1,7 @@
 ---
 title: "SOFTDAL - Home"
 layout: homelay
-excerpt: "Software and Data for Language Research at University of Cologne"
+excerpt: "Software and Data for Linguistic Research at University of Cologne"
 sitemap: false
 permalink: /
 ---

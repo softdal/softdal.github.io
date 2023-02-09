@@ -1,5 +1,5 @@
 ---
-title: "SD-LR - Home"
+title: "SOFTDAL - Home"
 layout: homelay
 excerpt: "Software and Data for Language Research at University of Cologne"
 sitemap: false
@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-The Software and Data for Linguistic Research (SD-LR) group at the University of Cologne is dedicated to driving advancements in the field through the development and sharing of tools and resources that support the collection, annotation, and analysis of linguistic data, with a particular focus on corpora, treebanks, dictionaries, audio-visual data, and APIs. We aim to foster collaboration among scholars and promote the use of technology in linguistic research. Our members are committed to making a significant impact in the academic community through cutting-edge research and resources.
+The Software and Data for Linguistic Research (SOFTDAL) group at the University of Cologne is dedicated to driving advancements in the field through the development and sharing of tools and resources that support the collection, annotation, and analysis of linguistic data, with a particular focus on corpora, treebanks, dictionaries, audio-visual data, and APIs. We aim to foster collaboration among scholars and promote the use of technology in linguistic research. Our members are committed to making a significant impact in the academic community through cutting-edge research and resources.
 
 
 <figure class="fourth">
